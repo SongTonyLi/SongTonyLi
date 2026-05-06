@@ -1,6 +1,8 @@
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SongTonyLi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SongTonyLi&show_icons=true&theme=dark&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SongTonyLi&theme=tokyonight&hide_border=true" height="195"/>
 </p>
 
 <p align="center">
@@ -15,7 +17,3 @@
   <a href="https://www.linkedin.com/in/song--li/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sl5807@columbia.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center"><i>Thanks for stopping by 🚀</i></p>
